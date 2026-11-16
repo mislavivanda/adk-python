@@ -1,0 +1,19 @@
+pyproject.toml
+  s_cc2f8e681b34c6::t_343d1035bd3a5d 76,178,347
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2704a08bea97f26700b583b4bcd6992148d843f2",
+  "prompts": {},
+  "sessions": {
+    "s_cc2f8e681b34c6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e1a999c26ffegIrMmUb1WUsc54",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    }
+  }
+}
